@@ -1,1 +1,18 @@
-/*  your css code here. If applicable */
+.hero{
+    display: block;
+}
+ 
+
+img{
+    height: 350px;
+    width: 350px;
+    float: left;
+    
+}
+h1,p{
+ padding-left: 10px;
+}
+button{
+    color: white;
+    background-color: red;
+}
